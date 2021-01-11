@@ -35,7 +35,7 @@ const ContactUs = () => {
                             <h2><p><br/><h1>EMAIL US</h1>
                             For Business enquiries, <br/>
                             please write a mail to:
-                            contactus@padminipr.in
+                            contactus@padminipr.com
                             </p></h2>
                         </div>
                     </div>
