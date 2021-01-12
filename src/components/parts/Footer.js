@@ -16,8 +16,10 @@ const Footer = () => {
 					<li><a href="https://www.facebook.com/pdmini.prbranding"><i className="fa fa-twitter"></i></a></li>
 					<li><a href="https://twitter.com/PdminiPr"><i className="fa fa-facebook"></i></a></li>
 					<li><a href="https://www.instagram.com/pdmini_prbranding/"><i className="fa fa-instagram"></i></a></li>
+					<li><a href="https://www.facebook.com/pdmini.prbranding"><i className="fa fa-youtube-play"></i></a></li>
+					<li><a href="https://www.facebook.com/pdmini.prbranding"><i className="fa fa-linkedin"></i></a></li>
 				</ul>
-				<p className="copyright-line">© Copyright 2020 - All rights reserved.</p>
+				<p className="copyright-line">© Copyright 2021 - All rights reserved.</p>
 				<p className="copyright-line"><a href= "/privacy-policy">Privacy Policy</a> | <a href= "/terms-of-service">Terms of Service</a></p>
                 <p class="float-right"><a href="#">Back to top</a></p>
 			</div>

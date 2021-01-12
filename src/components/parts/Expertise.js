@@ -10,7 +10,7 @@ const Expertise = () => {
         <>
         <section style ={divStyle} className="page-banner-section">
         <div className="container">
-            <h1 style={{fontSize: "70px",textAlign: 'center', color: 'white' }}>Our Expertise</h1>
+            <h1 style={{fontFamily:"Baskerville Old Face", fontSize: "70px",textAlign: 'center', color: 'black' }}>EXPERTISE</h1>
         </div>
         </section>
     
@@ -71,8 +71,10 @@ const Expertise = () => {
       <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" src="upload/blog/home2/e5.jpg" alt=""></img>
       </div>
     </div>
+    
     <hr class="featurette-divider" />
   </div>
+
   </>
     );
 };

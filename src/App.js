@@ -8,6 +8,7 @@ import ComingSoon from './components/screens/ComingSoon';
 import NotFound from './components/screens/NotFound';
 import PrivacyPolicy from './components/parts/PrivacyPolicy';
 import TermsofService from './components/parts/TermsofService';
+import Media from './components/screens/Media';
 
 function App() {
   return(
@@ -33,6 +34,9 @@ function App() {
       </Route>
       <Route path ="/terms-of-service">
         < TermsofService />
+      </Route>
+      <Route path = "/media">
+        <Media />
       </Route>
       <Route path ="*">
         < NotFound />

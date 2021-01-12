@@ -15,17 +15,19 @@ const Navbar = () => {
                 <form className="form-search">
                     <input type="search" placeholder="Search:"/>
                 </form>
-                <ul className="navbar-nav m-auto">                    
-                    <li><Link to="/">Home</Link></li>
+                <ul className="navbar-nav m-auto" >                    
+                    <li ><Link to="/">Home</Link></li>
                     <li><Link to="/about">About</Link></li>
                     <li><Link to="/services">Services</Link></li>
-                    <li><Link to="/coming-soon">Media</Link></li>
+                    <li><Link to="/media">Media</Link></li>
                     <li><Link to="/contact-us">ContactUs</Link></li>
                 </ul>
                 <ul className="navbar-nav ml-auto social-list">
                     <li><a href="https://www.facebook.com/pdmini.prbranding"><i className="fa fa-facebook"></i></a></li>
                     <li><a href="https://twitter.com/PdminiPr"><i className="fa fa-twitter"></i></a></li>
                     <li><a href="https://www.instagram.com/pdmini_prbranding/"><i className="fa fa-instagram"></i></a></li>
+                    <li><a href="https://www.facebook.com/pdmini.prbranding"><i className="fa fa-youtube-play"></i></a></li>
+                    <li><a href="https://www.facebook.com/pdmini.prbranding"><i className="fa fa-linkedin"></i></a></li>
                 </ul>
             </div>
         </div>
