@@ -64,7 +64,7 @@ const Expertise = () => {
     <hr class="featurette-divider" />
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading">Consumer <span class="text-muted">Connections.</span></h2>
+        <h2 class="featurette-heading">Consumer <span class="text-muted">Connections</span></h2>
         <p class="lead">Our consumer connection endeavours will carve out a distinct and clear brand personality for your business. In a receptive consumption environment where a mass economy has been replaced by a customer economy, we offer you a host of creative ways to boost your brand and influence purchase decisions.</p>
       </div>
       <div class="col-md-5">

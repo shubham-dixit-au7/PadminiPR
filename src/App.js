@@ -9,6 +9,7 @@ import NotFound from './components/screens/NotFound';
 import PrivacyPolicy from './components/parts/PrivacyPolicy';
 import TermsofService from './components/parts/TermsofService';
 import Media from './components/screens/Media';
+import MissionVision from './components/screens/MissionVision';
 
 function App() {
   return(
@@ -35,6 +36,9 @@ function App() {
       <Route path ="/terms-of-service">
         < TermsofService />
       </Route>
+      <Route path ="/mission-vision">
+        <MissionVision />
+      </Route> 
       <Route path = "/media">
         <Media />
       </Route>

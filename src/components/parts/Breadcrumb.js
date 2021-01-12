@@ -10,8 +10,8 @@ const Breadcrumb = () => {
 		<section style ={divStyle} className="page-banner-section">
         <div className="container">
 			<br/>
-            <h1 style={{fontSize: "70px",textAlign: 'center', color: 'white' }}>About Us</h1><br/>
-			<h6 style={{textAlign: 'center', color: 'white'}}>Know the PR company and how it works</h6>
+            <h1 style={{fontFamily:"Baskerville Old Face", fontSize: "70px",textAlign: 'center', color: 'black' }}>About Us</h1><br/>
+			<h6 style={{fontFamily:"Baskerville Old Face", textAlign: 'center', color: 'black'}}>Know the PR company and how it works</h6>
         </div>
         </section>
     );    

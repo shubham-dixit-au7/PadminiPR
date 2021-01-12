@@ -18,7 +18,11 @@ const Navbar = () => {
                 <ul className="navbar-nav m-auto" >                    
                     <li ><Link to="/">Home</Link></li>
                     <li><Link to="/about">About</Link></li>
-                    <li><Link to="/services">Services</Link></li>
+                    <li>
+                        <Link to="/services">
+                            Services
+                        </Link>
+                    </li>
                     <li><Link to="/media">Media</Link></li>
                     <li><Link to="/contact-us">ContactUs</Link></li>
                 </ul>

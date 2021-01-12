@@ -22,7 +22,7 @@ const Sidebar = () => {
 						</li>
 						<li>
 							<a href="https://www.instagram.com/pdmini_prbranding/">
-								<i className="fa fa-instagramheroku"></i>
+								<i className="fa fa-instagram"></i>
 								instagram
 								<span>28 followers</span>
 						    </a>
@@ -34,18 +34,18 @@ const Sidebar = () => {
 					<h2>Categories</h2>
 					<ul className="category-list">
 				    	<li>
-							<a href="/coming-soon">
-					    		Mission & Vision <span>24</span>
+							<a href="/mission-vision">
+					    		Mission & Vision <span><i class="fa fa-arrow-right" aria-hidden="true"></i></span>
 							</a>
 						</li>
 						<li>
 							<a href="/coming-soon">
-								Rewards & Recognition <span>16</span>
+								Rewards & Recognition <span><i class="fa fa-arrow-right" aria-hidden="true"></i></span>
 							</a>
 						</li>
 						<li>
 							<a href="/coming-soon">
-								Careers <span>8</span>
+								Careers <span><i class="fa fa-arrow-right" aria-hidden="true"></i></span>
 							</a>
 						</li>
 					</ul>
